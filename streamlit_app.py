@@ -23,7 +23,7 @@ from recommendation_final import get_recs
 
 import nltk
 
-st.header("Food Recommendation System: Sanjeev Kapoor Recipes")
+st.header("Recipe Recommendation System")
 st.text("By Ridhika Agrawal") 
 st.write("Code on Github found [here](https://github.com/ridhika123/RecipeRecommendation)")
 
