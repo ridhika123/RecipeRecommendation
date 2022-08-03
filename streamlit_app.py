@@ -5,6 +5,7 @@ pip install nltk
 pip install unidecode
 pip install gensim
 pip install sklearn
+pip install streamlit
 
 import streamlit as st
 import pandas as pd
