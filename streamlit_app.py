@@ -18,8 +18,10 @@ import os
 import import_ipynb
 
 # import config, rec_sys
-from Cleaning_Data import ingredient_cleaner
-from recommendation_final import get_recs
+# from Cleaning_Data import ingredient_cleaner
+from Data_Cleaner import ingredient_cleaner 
+# from recommendation_final import get_recs
+from Recommendation import get_recs
 
 import nltk
 
